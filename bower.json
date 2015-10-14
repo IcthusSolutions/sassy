@@ -1,0 +1,23 @@
+{
+  "name": "sassy",
+  "version": "1.0.0",
+  "homepage": "https://www.icthussolutions.com",
+  "description": "Bootstrap 4 WordPress starter theme with SASS",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Andy Brooks"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "latest",
+    "fontawesome": "latest"
+  }
+}
